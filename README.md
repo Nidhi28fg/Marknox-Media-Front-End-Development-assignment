@@ -19,7 +19,7 @@ Visual Studio Code is a lightweight yet powerful source code editor available fo
 Microsoft DevBlogs provide insights, tutorials, and updates on various Microsoft development tools and technologies. It is a resource for developers to stay updated with the latest trends and best practices in software development​.
 
 <h2>5. Microsoft Learn </h2>
-Microsoft Learn is an online learning platform offering free tutorials, interactive learning modules, and certifications. It covers a wide range of Microsoft technologies, including Azure, Dynamics 365, and Power Platform, helping developers enhance their skills and knowledge​ (Azure)​.
+Microsoft Learn is an online learning platform offering free tutorials, interactive learning modules, and certifications. It covers a wide range of Microsoft technologies, including Azure, Dynamics 365, and Power Platform, helping developers enhance their skills and knowledge​​.
 
 <h2>6. .NET </h2>
-.NET is a free, cross-platform framework for building modern applications. It supports multiple languages, editors, and libraries to build for web, mobile, desktop, gaming, and IoT. .NET simplifies development with extensive libraries, APIs, and tools for developers​ (Azure)​.
+.NET is a free, cross-platform framework for building modern applications. It supports multiple languages, editors, and libraries to build for web, mobile, desktop, gaming, and IoT. .NET simplifies development with extensive libraries, APIs, and tools for developers​.
